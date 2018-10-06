@@ -1,3 +1,4 @@
+
 # Error animation
 ![alt](img/hacktober_banner.jpg)
 **Esse repositório tem como objetivo a disponibilização de animações para páginas de erros.**  :sparkles::warning:
@@ -20,3 +21,4 @@ _Também é possível utilizar pré-processadores de estilização para criar as
 - [Less](http://lesscss.org/)
 - [Stylus](http://stylus-lang.com/)
 - [Materialize](https://materializecss.com/getting-started.html)
+
