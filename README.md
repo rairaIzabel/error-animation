@@ -1,6 +1,5 @@
-
-# Error animation
 ![alt](img/hacktober_banner.jpg)
+# Error animation
 ##### Read this in [:us:](translation/english.md) [:es:](translation/spanish.md)
 
 Olá gente :sparkles: para quem está caindo de paraquedas aqui, esse repositório contém 4 tipos de animação em keyframes para serem colocados em páginas de error de sites, portais, aplicativos e etc. Para quem busca codar animações sem a necessidade de utilizar .js seus filhos (frameworks), esse é o lugar certo.
