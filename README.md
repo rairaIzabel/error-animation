@@ -1,4 +1,3 @@
-
 ![alt](img/hacktober_banner.jpg)
 # Error animation
 ##### Read this in [:us:](translation/english.md) [:es:](translation/spanish.md)
@@ -39,3 +38,4 @@ _Também é possível utilizar pré-processadores de estilização para criar as
 - [Less](http://lesscss.org/)
 - [Stylus](http://stylus-lang.com/)
 - [Materialize](https://materializecss.com/getting-started.html)
+
