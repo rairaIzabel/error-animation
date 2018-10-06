@@ -1,23 +1,24 @@
 # Error animation
 ![alt](img/hacktober_banner.jpg)
-**Esse repositório tem como objetivo a disponibilização de animações para páginas de erros.**  :sparkles::warning:
+**This repository aims to make animations available to pages of errors.**  :sparkles::warning:
 
 #### Read this in [English](translation/english.md)
 =======
 ##### Read this in [:us:](translation/english.md) [:es:](translation/spanish.md)
- _Todos os item contidos nesse repositório são tutoriais de css3 e HTML5._
+ _All items in this repository are css3 and HTML5 tutorials._
 
 ### Rodar o projeto localmente
-**0 -** Instale as dependências básicas
+**0 -** Install all the basics dependencies
+
 - [Git](https://git-scm.com/)
 
-**1 -** Clone o projeto e instale
+**1 -** Clone the project and install
 ```
 $ git clone https://github.com/rairaIzabel/error-animation.git
 $ cd error-animation
-$ gitcheckout -b "nome-da-sua-branch"
+$ gitcheckout -b "your-branch"
 ```
-_Também é possível utilizar pré-processadores de estilização para criar as animações, como:_
+_You can also use styling preproccessors to create animations, such as:_
 - [Sass](https://sass-lang.com/install)
 - [Less](http://lesscss.org/)
 - [Stylus](http://stylus-lang.com/)
