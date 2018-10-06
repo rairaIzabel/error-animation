@@ -1,5 +1,5 @@
 # Error animation
-![alt](img/hacktober_banner.jpg)
+![alt](../img/hacktober_banner.jpg)
 **This repository aims to make animations available to pages of errors.**  :sparkles::warning:
 
 #### Read this in [English](translation/english.md)
@@ -9,6 +9,7 @@
 
 ### Rodar o projeto localmente
 **0 -** Install all the basics dependencies
+
 
 - [Git](https://git-scm.com/)
 
