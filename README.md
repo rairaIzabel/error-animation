@@ -6,7 +6,7 @@ Olá gente :sparkles: para quem está caindo de paraquedas aqui, esse repositór
 
 Antes de mais nada, para quem quiser criar novos erros baseados nos que foram ensinados aqui, tem total liberdade!!! Espero que gostem, aprendam e repassem para outras pessoas que busquem o mesmo que encontraram aqui.
 
-### O que é keyframes
+### O que são keyframes
 Para quem não conhece os Keyframes, eles são uma propriedade que significa o que o próprio nome diz: chaves de quadros, ou seja, ele cria uma "chave" para designar respectiva ação dentro da classe que você criou.
 Eles podem acionar qualquer coisa, desde mexer um circulo da direita para esquerda infinitamente, até permitir desenhar seu personagem favorito da cartoon netwoork, só com classes sobrepostas.
 
